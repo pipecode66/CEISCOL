@@ -4,7 +4,7 @@
   "private": true,
   "description": "Landing page estatica de CEISCOL lista para desplegar en Vercel.",
   "scripts": {
-    "dev": "npx vercel dev",
+    "dev": "npx serve .",
     "preview": "npx vercel",
     "deploy": "npx vercel --prod"
   }
