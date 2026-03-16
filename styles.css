@@ -797,7 +797,7 @@ h3 {
 }
 
 .whatsapp-button {
-  gap: calc(0.65rem + 2cm);
+  gap: 0.75rem;
   color: var(--color-white);
   background: linear-gradient(135deg, #128c7e, #20bf62 58%, #25d366);
   border: 1px solid rgba(119, 255, 172, 0.76);
